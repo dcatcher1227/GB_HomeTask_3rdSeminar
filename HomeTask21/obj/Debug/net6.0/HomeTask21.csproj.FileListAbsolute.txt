@@ -1,0 +1,15 @@
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\bin\Debug\net6.0\HomeTask21.exe
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\bin\Debug\net6.0\HomeTask21.deps.json
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\bin\Debug\net6.0\HomeTask21.runtimeconfig.json
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\bin\Debug\net6.0\HomeTask21.dll
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\bin\Debug\net6.0\ref\HomeTask21.dll
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\bin\Debug\net6.0\HomeTask21.pdb
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\obj\Debug\net6.0\HomeTask21.csproj.AssemblyReference.cache
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\obj\Debug\net6.0\HomeTask21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\obj\Debug\net6.0\HomeTask21.AssemblyInfoInputs.cache
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\obj\Debug\net6.0\HomeTask21.AssemblyInfo.cs
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\obj\Debug\net6.0\HomeTask21.csproj.CoreCompileInputs.cache
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\obj\Debug\net6.0\HomeTask21.dll
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\obj\Debug\net6.0\ref\HomeTask21.dll
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\obj\Debug\net6.0\HomeTask21.pdb
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask21\obj\Debug\net6.0\HomeTask21.genruntimeconfig.cache

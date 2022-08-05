@@ -1,0 +1,15 @@
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\bin\Debug\net6.0\HomeTask23.exe
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\bin\Debug\net6.0\HomeTask23.deps.json
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\bin\Debug\net6.0\HomeTask23.runtimeconfig.json
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\bin\Debug\net6.0\HomeTask23.dll
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\bin\Debug\net6.0\ref\HomeTask23.dll
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\bin\Debug\net6.0\HomeTask23.pdb
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\obj\Debug\net6.0\HomeTask23.csproj.AssemblyReference.cache
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\obj\Debug\net6.0\HomeTask23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\obj\Debug\net6.0\HomeTask23.AssemblyInfoInputs.cache
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\obj\Debug\net6.0\HomeTask23.AssemblyInfo.cs
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\obj\Debug\net6.0\HomeTask23.csproj.CoreCompileInputs.cache
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\obj\Debug\net6.0\HomeTask23.dll
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\obj\Debug\net6.0\ref\HomeTask23.dll
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\obj\Debug\net6.0\HomeTask23.pdb
+C:\Users\User01\Documents\Учеба\DZ\Veb3\HomeTask23\obj\Debug\net6.0\HomeTask23.genruntimeconfig.cache
